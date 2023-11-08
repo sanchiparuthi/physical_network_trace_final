@@ -1,0 +1,43 @@
+Sanchi Paruthi
+Start : Rohini, Delhi (nani house)
+Destination : www.girlsgogames.com
+
+Attempt 1 : to trace from childhood home in Rohini, Delhi
+
+1) Home : 192.168.29.1
+2) 10.3.64.1
+3) 172.16.26.1
+4) 172.16.18.1
+5) 192.168.128.134
+6) 192.168.128.136
+7) 192.168.128.140
+8) 172.27.248.55
+9) 172.27.248.35
+10) 172.27.248.34
+11) 192.168.44.24
+12) 192.168.44.24
+
+[could not connect any of the above-mentioned IP addresses to a location]
+
+Attempt 2 : to trace from current home in Manhattan, New York 
+
+1) 192.168.4.1    - 10116 | New York City, New York | Lat : 40.713192 , Lon -74.006065
+2) 10.22.8.1      - una
+3) 207.237.20.199 - 10116 | New York City, New York | Lat : 40.713192 , Lon -74.006065
+4) 207.172.17.54  - 60540 | DuPage county , Naperville, Illinois, Chicago | Lat:41.770999, Lon: -88.153042
+5) 207.172.19.235 - 20901 | Montgomery County, Silver spring, Maryland | Lat:38.99067 , Lon: -77.02655
+6) 207.172.17.33  - 60540 | DuPage county , Naperville, Illinois, Chicago   | Lat:40.713192 , Lon: -74.006065
+7) 207.172.17.37  - 60540 | DuPage county , Naperville, Illinois, Chicago   | Lat:40.713192 , Lon: -74.006065
+8) 15.230.204.36  - 60540 | DuPage county , Naperville, Illinois, Chicago   | Lat:40.713192 , Lon: -74.006065
+9) 52.93.59.131   - 20146 | Amazon data center Loudoun County, Ashburn, virginia | Lat:38.99067 , Lon: -77.02655 
+
+Research data :
+
+Native Animals, Insects, Birds and Plants endangered/ threatened / extinct from the areas my network travels.
+
+1. Manhattan : Purple Pitcher Plants, Subarctic Darner, Scarlet Bluet 
+2. DuPage County, Illinois : Common Pawpaw
+3. Montgomery County : Egrets Cattle
+4. Virginia : Small Whorled Pogonia , Sweet Pinesap, Swamp Pink
+
+

@@ -1,0 +1,132 @@
+h2{
+    color: rgb(210, 38, 38);
+    font-size: small;
+    text-align: center;
+    margin-top: 200px;
+    
+}
+
+.bug {
+    position: absolute; top: 0px; right: -10px; 
+   
+}
+
+.bug2 {
+    position: absolute; top: -35px; left: -10px; 
+}
+
+
+.flying { 
+    animation-name: floating;
+    animation-duration: 4s;
+    animation-iteration-count: infinite;
+    animation-timing-function: ease-in-out;
+    margin-left: 85px;
+    margin-top: 450px;
+}
+ 
+@keyframes floating {
+    0% { transform: translate(0,  0px); }
+    50%  { transform: translate(0, 35px); }
+    100%   { transform: translate(0, -0px); }    
+}
+
+.egrets{
+    position: absolute; bottom: -15px; right: 30px;
+    animation-name: swing;
+    animation-duration: 5s;
+    animation-iteration-count: infinite;
+    animation-timing-function: linear;
+}
+
+.pogonia {
+    position: absolute; top: 300px; left : 35 px;
+    animation-name: swing;
+    animation-duration: 5s;
+    animation-iteration-count: infinite;
+    animation-timing-function: linear;
+}
+
+.pinesap{
+    animation-name: around;
+    animation-duration: 8s;
+    animation-iteration-count: infinite;
+    animation-timing-function: ease-in-out;
+    margin-left: 300px;
+    margin-top: -500px;
+}
+
+@keyframes around {
+    0% { transform: translate(0px,  0px); }
+    25% {transform : translate(10px, 5px)}
+    50%  { transform: translate(-15px, 15px); }
+    100%   { transform: translate(0, -0px); }  
+}
+
+.pawpaw{
+animation-name: paw;
+animation-duration: 10s;
+animation-iteration-count: infinite;
+ animation-timing-function: ease-in-out;
+ position: absolute; top: 400px; left: 350px;
+}
+
+@keyframes paw {
+    0% { transform: translate(0px,  0px); }
+    25% {transform : translate(-25px, -5px)}
+    50%  { transform: translate(-5px, -10px); }
+    100%   { transform: translate(0, 0px); }  
+}
+
+.pogonia2 {
+    position: absolute; top : 250px; left : 650px;
+    animation-name: swing;
+    animation-duration: 5s;
+    animation-iteration-count: infinite;
+    animation-timing-function: linear;
+}
+
+@keyframes swing {
+    0% { transform: translate(0px,  0px); }
+    50%  { transform: translate(10px, 2px); }
+    100%   { transform: translate(0, 0px); } 
+}
+
+.pitcher{
+    animation-name: purble;
+    animation-duration: 5s;
+    animation-iteration-count: infinite;
+    animation-timing-function: ease-in-out; 
+}
+
+#one {
+    width :20px;
+     height :30px ;
+     position: absolute; top: 40px; left: 35px; 
+}
+#two {
+    width :20px;
+     height :30px ;
+     position: absolute; top: 40px; left: 35px; 
+}
+#three {
+    width :20px;
+     height :30px ;
+     position: absolute; top: 40px; left: 35px; 
+}
+#four {
+    width :20px;
+     height :30px ;
+     position: absolute; top: 40px; left: 35px; 
+}
+
+@keyframes purble {
+    0% { transform: translate(0px,  0px); }
+    50%  { transform: translate(0px, -10px); }
+    100%   { transform: translate(0, 0px); } 
+}
+
+
+
+
+ 

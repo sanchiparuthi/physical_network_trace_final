@@ -1,0 +1,6 @@
+1. add background
+2. add the remaining images
+3. make an about button
+3. come up with heading
+4. upload to github
+
